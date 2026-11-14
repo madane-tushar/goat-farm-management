@@ -26,3 +26,26 @@ App runs at: http://localhost:3000
 - Click Login with any email/password to enter
 - All data is stored in React state (resets on refresh)
 - No backend or database needed
+
+
+
+
+## Features
+- Goat records (add, edit, delete)
+- Groups and hitting cycle tracking
+- Breeding and pregnancy management
+- Vaccination schedule
+- Finance: income, expenses, net profit
+- Dashboard with monthly charts and breed distribution
+
+## Tech Stack
+- Frontend: React
+- Backend: Node.js, Express
+- Database: MySQL
+
+## Setup
+1. Clone: `git clone https://github.com/madane-tushar/goat-farm-management.git`
+2. `cd server` ani `npm install`
+3. `.env` file banva (DB credentials)
+4. `node index.js`
+5. Root folder madhe `npm install` ani `npm start`
