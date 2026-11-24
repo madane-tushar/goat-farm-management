@@ -53,6 +53,9 @@ A full-stack Goat Farm Management web app built with React, Node.js, Express, an
    ```
 
 The app runs at http://localhost:3000.
-
+## Project Structure
+- `public/`: static files and HTML template
+- `src/`: React frontend (pages, components)
+- `server/`: Node.js and Express backend, MySQL connection
 ## Author
 Tushar Madane
